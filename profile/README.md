@@ -20,7 +20,7 @@ The launcher integrates **Rockstar Social Club** features, providing **cloud sav
 ## 📸 Overview
 A quick look at key parts in action:
 
-<img width="2880" height="1800" alt="rockstar-library" src="https://github.com/user-attachments/assets/ce8906b9-f7e4-4a88-924e-f8c333d50bf7" />
+![rockstar-library](https://github.com/user-attachments/assets/849a37f7-ff6d-417b-9b2e-043b80e2df96)
 
 ---
 
